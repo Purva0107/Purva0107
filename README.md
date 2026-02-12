@@ -1,5 +1,5 @@
 
-#💫 About Me:
+💫 About Me:
 ## Hi, I'm Purva 👋<br><br>🎓 Computer Engineering Graduate with Honours in Data Science  <br>- 📊 Passionate about transforming raw data into actionable insights  <br>- 🧠 Skilled in SQL, Python, Power BI & Data Visualization  <br>- 📈 Focused on KPI Reporting & Dashboard Development  <br>- 🚀 Currently building real-world analytics projects  <br><br>> Calm mindset. Sharp queries. Data-driven decisions.<br>
 
 
