@@ -2,7 +2,7 @@
 
 <--
 # 💫 About Me:
-## Hi, I'm Purva 👋<br><br>I’m a Data Analyst with a strong interest in turning raw data into meaningful insights.  <br>I work with SQL, Python, and Power BI to analyze datasets, build dashboards, and uncover trends that support smart decision-making.<br><br>I believe in facts over assumptions and clean queries over quick fixes.<br><br>Currently focused on:<br>- Data Analysis & Visualization<br>- KPI Reporting & Dashboard Development<br>- Improving problem-solving skills every day<br><br>Let the data speak.<br>
+## Hi, I'm Purva 👋<br><br>🎓 Computer Engineering Graduate with Honours in Data Science  <br>- 📊 Passionate about transforming raw data into actionable insights  <br>- 🧠 Skilled in SQL, Python, Power BI & Data Visualization  <br>- 📈 Focused on KPI Reporting & Dashboard Development  <br>- 🚀 Currently building real-world analytics projects  <br><br>> Calm mindset. Sharp queries. Data-driven decisions.<br>
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Purva0107&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Purva0107&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Purva0107&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Purva0107&icon=0&color=0)](https://visitcount.itsvg.in)
